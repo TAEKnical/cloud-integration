@@ -78,6 +78,13 @@ OAuth는 기존의 쿠키와 세션 기반의 사용자 인증 방식을 보완�
 <br/>
 <br/>
 <img src = "https://user-images.githubusercontent.com/69182192/91052383-57a48180-e65c-11ea-9b50-f6114d777355.png" width="200px"><br/>
+## JWT (JSON Web Tokens) <br/>
+JWT는 Json 포맷을 이용하여 사용자에 대한 속성을 저장하는 Claim 기반의 Web Token이다. <br/>
+JWT 토큰은 발급자, 제목 (클레임), 만료 시간 등에 대한 정보를 포함하는 JSON 인코딩 된 데이터 구조입니다.<br/>
+변조 및 신뢰성을 위해 서명되며 대칭 또는 비대칭 접근 방식을 사용하여 토큰 정보를 보호하기 위해 암호화 될 수 있습니다.<br/>
+<br/>
+<br/>
+
 
 <img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/>
 ## REST API <br/>
