@@ -79,9 +79,9 @@ OAuth는 기존의 쿠키와 세션 기반의 사용자 인증 방식을 보완�
 <br/>
 <img src = "https://user-images.githubusercontent.com/69182192/91052383-57a48180-e65c-11ea-9b50-f6114d777355.png" width="200px"><br/>
 ## JWT (JSON Web Tokens) <br/>
-JWT는 Json 포맷을 이용하여 사용자에 대한 속성을 저장하는 Claim 기반의 Web Token. <br/>
-JWT 토큰은 발급자, 제목 (클레임), 만료 시간 등에 대한 정보를 포함하는 JSON 인코딩 된 데이터 구조.<br/>
-변조 및 신뢰성을 위해 서명되며 대칭 또는 비대칭 접근 방식을 사용하여 토큰 정보를 보호하기 위해 암호화 될 수 있음.<br/>
+JWT는 Json 포맷을 이용하여 사용자에 대한 속성을 저장하는 Claim 기반의 Web Token. <br/><br/>
+JWT 토큰은 발급자, 제목 (클레임), 만료 시간 등에 대한 정보를 포함하는 JSON 인코딩 된 데이터 구조.<br/><br/>
+변조 및 신뢰성을 위해 서명되며 대칭 또는 비대칭 접근 방식을 사용하여 토큰 정보를 보호하기 위해 암호화 될 수 있음.<br/><br/>
 <br/>
 <br/>
 
@@ -93,8 +93,8 @@ REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이�
 <br/>
 <img src = "https://user-images.githubusercontent.com/69182192/91053908-802d7b00-e65e-11ea-83d0-69faac3c0749.png" width="200px"> <br/>
 ## OPENID <br/>
-OpenID는 현재 구글 뿐만 아니라 많은 글로벌 플랫폼들이 다른 서비스에게 사용자 인증을 제공을 위해 사용하고 있는 프로토콜<br/>
-OpenID Connect는 기본적으로 OAuth 프로토콜을 기반으로 작동하는 프로토콜이기 때문에 기술적으로 사용하는 방법이 매우 유사하지만 사용하는 목적에서는 큰 차이가 있다.<br/>
+OpenID는 현재 구글 뿐만 아니라 많은 글로벌 플랫폼들이 다른 서비스에게 사용자 인증을 제공을 위해 사용하고 있는 프로토콜<br/><br/>
+OpenID Connect는 기본적으로 OAuth 프로토콜을 기반으로 작동하는 프로토콜이기 때문에 기술적으로 사용하는 방법이 매우 유사하지만 사용하는 목적에서는 큰 차이가 있다.<br/><br/>
 OPENID는 인증(Authentication)을 위해서 사용하고, OAuth는 인가(Authroization)를 위해서 사용. <br/>
 <br/>
 <br/>
