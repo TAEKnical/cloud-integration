@@ -86,11 +86,6 @@ JWT 토큰은 발급자, 제목 (클레임), 만료 시간 등에 대한 정보�
 <br/>
 
 
-<img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/>
-## REST API <br/>
-REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다.<br/> <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이 보다 민첩해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/>
-<br/>
-<br/>
 <img src = "https://user-images.githubusercontent.com/69182192/91053908-802d7b00-e65e-11ea-83d0-69faac3c0749.png" width="200px"> <br/>
 ## OPENID <br/>
 OpenID는 현재 구글 뿐만 아니라 많은 글로벌 플랫폼들이 다른 서비스에게 사용자 인증을 제공을 위해 사용하고 있는 프로토콜<br/><br/>
@@ -99,6 +94,15 @@ OPENID는 인증(Authentication)을 위해서 사용하고, OAuth는 인가(Auth
 <br/>
 <br/>
 
+<img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/>
+## REST API <br/>
+REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다.<br/> <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이 보다 민첩해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/>
+<br/>
+<br/>
+
+<img src = "https://user-images.githubusercontent.com/69182192/91055351-7ce6bf00-e65f-11ea-8556-4bd20415a99f.png" width="200px"> <br/>
+## ODATA (Open Data Protocol) <br/>
+OADTA는 단순하고 표준적인 방법으로 쿼리 가능하고 상호 운용 가능한 REST API를 생성하고 사용할 수있는 개방형 프로토콜.
 
 ---
 # 요약
