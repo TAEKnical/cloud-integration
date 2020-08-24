@@ -79,7 +79,9 @@ OAuth는 기존의 쿠키와 세션 기반의 사용자 인증 방식을 보완�
 <br/>
 <img src = "https://user-images.githubusercontent.com/69182192/91052383-57a48180-e65c-11ea-9b50-f6114d777355.png" width="200px"><br/>
 
-<img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/> REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다. <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이보다 민첩 해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/>
+<img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/>
+## REST API <br/>
+REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다. <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이보다 민첩 해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/>
 
 ---
 # 요약
