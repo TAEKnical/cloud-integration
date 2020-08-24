@@ -89,6 +89,16 @@ JWT 토큰은 발급자, 제목 (클레임), 만료 시간 등에 대한 정보�
 <img src = "https://user-images.githubusercontent.com/69182192/91016104-31b0ba00-e627-11ea-9ce0-46b82b3fc864.png" width="200px"> <br/>
 ## REST API <br/>
 REST API는 REST 아키텍처의 제약 조건을 준수하는 애플리케이션 프로그래밍 인터페이스입니다. <br/>REST API를 통해 중요한 데이터를 은행 또는 의료 앱과 같은 모바일 앱에 쉽게 연결할 수있는 iPaaS 솔루션을 사용하면 <br/> 기업이 보다 민첩해져 디지털 비즈니스 가치를 더 빠르고 정확하게 제공 할 수 있습니다. <br/>
+<br/>
+<br/>
+<img src = "https://user-images.githubusercontent.com/69182192/91053908-802d7b00-e65e-11ea-83d0-69faac3c0749.png" width="200px"> <br/>
+## OPENID <br/>
+OpenID는 현재 구글 뿐만 아니라 많은 글로벌 플랫폼들이 다른 서비스에게 사용자 인증을 제공을 위해 사용하고 있는 프로토콜<br/>
+OpenID Connect는 기본적으로 OAuth 프로토콜을 기반으로 작동하는 프로토콜이기 때문에 기술적으로 사용하는 방법이 매우 유사하지만 사용하는 목적에서는 큰 차이가 있다.<br/>
+OPENID는 인증(Authentication)을 위해서 사용하고, OAuth는 인가(Authroization)를 위해서 사용. <br/>
+<br/>
+<br/>
+
 
 ---
 # 요약
