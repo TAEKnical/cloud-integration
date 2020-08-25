@@ -12,7 +12,7 @@
 
 ## The perpose of directories
 
-> presentations : 발표자료 업로드
+> ppt : 발표자료(ppt,pdf) 업로드
 
 > >\<member name\> : 멤버별 개인 발표자료 디렉토리. 본인 디렉토리에 업로드 해주세요.
 > >
@@ -31,5 +31,12 @@
 ---
 
 
+
+> working : 작업중인 파일
+
+>> <\member name\>
+
+
+___
 이 문서는 지속적으로 수정합니다.
 
