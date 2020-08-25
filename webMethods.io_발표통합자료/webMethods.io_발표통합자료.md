@@ -1,24 +1,24 @@
 # webMethods.io 발표 통합 자료
 
-
+<br>
 
 ## 목차
 
-1. [**webMethods.io란?**](#webMethods.io란?)
+1. [**webMethods.io란?**](#webmethods.io란?)
 
-2. [**webMethods.io 서비스**](#webMethods.io 서비스)
+2. [**webMethods.io 서비스**](#webmethods.io-서비스)
 
-​        [**2-1) webMethods.io B2B**](#webMethods.io B2B)
+​        [**2-1) webMethods.io B2B**](#webmethods.io-B2B)
 
-​        [**2-2) webMethods.io API**]()
+​        [**2-2) webMethods.io API**](#webmethods.io-API)
 
-​        [**2-3) webMethods.io Integration**]()
+​        [**2-3) webMethods.io Integration**](#webmethods.io-Integration)
 
-
+<br>
 
 ---
 
-
+<br>
 
 ## 1. webMethods.io란?
 
@@ -26,13 +26,13 @@
 
 webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게이트웨이에서 제공하는 기능의 조합을 제공하는 서비스로서 강력한 통합 플랫폼(iPaaS)이다.
 
-
+<br>
 
 - 애플리케이션, 데이터, API, B2B 및 IoT 장치를 통합하여 여러 클라우드 인프라 플랫폼에서 사용할 수 있다.
 - 비용 효율성, 속도, 보안 및 유연성이 좋아서 업그레이드, 유지 관리 또는 수정을 할 필요가 없다.
 - SaaS 애플리케이션을 연결하고 비즈니스 프로세스를 보다 효율적으로 만드는것이 가능하다.
 
-
+<br>
 
 #### **webMethods.io의 장점**
 
@@ -40,13 +40,13 @@ webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게�
 
 ​       워크플로를 설계, 조립 및 배포하기 위한 직관적인 드래그 앤 드롭 인터페이스를 제공한다.
 
-
+<br>
 
 - 다중 테넌트 아키텍처
 
 ​       많은 테넌트가 각각 고유한 프로덕션 환경이 있는 단일 개발 환경을 공유 할 수 있다.
 
-
+<br>
 
 - 애플리케이션 커넥터
 
@@ -54,21 +54,21 @@ webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게�
 
 ​       기본 연결을 제공한다.
 
-
+<br>
 
 - 온프레미스 연결
 
 ​       사용중인 서버를 빠르게 연결하여 안정적이고 안전한 클라우드 - 온프레미스 통합을 생성할 수 있다.
 
-
+<br>
 
 ---
 
+<br>
 
+## 2. webmethods.io 서비스
 
-## 2. webMethods.io 서비스
-
-
+<br>
 
 ### 2-1) webMethods.io B2B
 
@@ -80,7 +80,7 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 파트너가 일반적으로 교환하는 비즈니스 문서에는 구매 주문, 주문 상태, 구매 주문 확인서, 송장 및 기타 도메인별 문서가 포함된다. webMethods.io B2B를 사용하면 회사에서 다른 조직에 연결하여 B2B 네트워크를 형성할 수 있다.
 
-
+<br>
 
 - 안전한 전송, 전체 가시성
 
@@ -88,7 +88,7 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 ​        거래 네트워크에서 B2B 거래에 대한 완전한 End-to-end 가시성을 확보할 수 있다.
 
-
+<br>
 
 - 자동화 된 프로필 관리
 
@@ -98,7 +98,7 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 ​       저장하고 문서 처리 및 라우팅 정보 등을 유지할 수 있다.
 
-
+<br>
 
 - 직접 통합, 실시간 교환
 
@@ -108,11 +108,11 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 ​        비즈니스 수행 방식을 가속화 할 수 있다.
 
-
+<br>
 
 ---
 
-
+<br>
 
 ### 2-2) webMethods.io API
 
@@ -120,7 +120,7 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이션에서 사용할 수 있도록 API를 타사 개발자, 파트너 및 기타 소비자에게 안전하게 관리하고 노출시켜주는 서비스이다.
 
-
+<br>
 
 - 안전한 API 게이트웨이
 
@@ -128,7 +128,7 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 ​        보호할 수 있고 어떤 사용자가 API에 접근하는지에 대한 관리를 할수 있다.
 
-
+<br>
 
 - 협업을 위한 개발자 포털
 
@@ -136,7 +136,7 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 ​       성장시킬 수 있다.
 
-
+<br>
 
 - API로 수익을 창출하는 방법
 
@@ -144,7 +144,7 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 ​       API 계획 및 패키지 제품을 생성 할 수 있는 도구를 제공한다.
 
-
+<br>
 
 - API 개선을 위한 분석
 
@@ -152,11 +152,11 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 ​       사용되는지 확인한다.
 
-
+<br>
 
 ---
 
-
+<br>
 
 ### 2-3) webMethods.io Integration
 
@@ -164,7 +164,7 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서비스에 연결하여 작업을 자동화 할 수 있는 서비스로서 강력한 통합 플랫폼 (iPaaS)이다.
 
-
+<br>
 
 - 통합 및 혁신의 자유
 
@@ -176,13 +176,13 @@ webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서�
 
 ​       고용할 필요가 없다.
 
-
+<br>
 
 - 셀프 서비스 통합
 
 ​       유지 관리 및 업그레이드 프로젝트를 제거하여 TCO를 낮추고, 전문 지식을 필요치 않아 셀프 서비스 통합이 가능하다.
 
-
+<br>
 
 - 환경에 대한 더 나은 가시성
 
@@ -190,31 +190,29 @@ webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서�
 
 ​        실시간으로 경고하여 조치를 취하도록 하며 원인 분석을 통해 드릴-다운하여 문제가 있는 위치를 확인할 수 있다.
 
-
+<br>
 
 #### **webMethods.io Integration 기본 개념**
 
 <img src="./wM.io.png" alt="wM.io.png" width=100% />
 
-
+<br>
 
 - Project란?
 
-<img src="./project.png" alt="project.png" width=80% />
+<img src="./workflow.png" alt="workflow.png" width=50% />
 
 프로젝트는 자산을 구성하기 위한 폴더 또는 컨테이너에 해당한다. 테넌트 내부의 워크 플로 및 FlowService와 관련된 구성과 함께 사용자가 만든 모든 자산을 보유한다.
 
-
+<br>
 
 - Workflow란?
-
-<img src="./workflow.png" alt="workflow.png" width=50% />
 
 워크 플로는 둘 이상의 웹 애플리케이션 또는 서비스 간의 연결이다. 간단히 말해서 워크 플로를 만드는 것은 조건을 정의하는 것과 같다. '서비스 A'에서 이벤트가 발생하면 '서비스 B'에서 무언가를 수행하고 (선택적으로) '서비스 C', '서비스 D'에 데이터를 전달한다.
 
 이렇게 트리거 및 작업을 정의하여 사용자 지정 워크 플로를 만들고 업무들을 자동화 할 수 있다.
 
-
+<br>
 
 ※ Workflow 예시
 
@@ -224,7 +222,7 @@ Trigger : 자신의 트위터 계정에 새로운 트윗 또는 리트윗이 게
 
 Action : 연결한 Slack 채널에 알림을 보낸다.
 
-
+<br>
 
 - FlowService란?
 
