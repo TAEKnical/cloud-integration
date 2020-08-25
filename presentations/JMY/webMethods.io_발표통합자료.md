@@ -4,15 +4,7 @@
 
 ## 목차
 
-1. [**webMethods.io란?**](#1.-webmethods.io란?)
-
-2. [**webMethods.io 서비스**](#2.-webmethods.io-서비스)
-
-​        [**2-1. webMethods.io B2B**](#2-1.-webmethods.io-b2b)
-
-​        [**2-2. webMethods.io API**](#2-2.-webmethods.io-api)
-
-​        [**2-3. webMethods.io Integration**](#2-3.-webmethods.io-integration)
+[TOC]
 
 <br>
 
@@ -20,7 +12,7 @@
 
 <br>
 
-## 1. webmethods.io란?
+## 1. webmethods.io란? 
 
 <img src="./webMethods.io.png" alt="webMethods.io.png" width=60% />
 
