@@ -10,8 +10,8 @@ ipaas의 개념과 특징에 대해서 알아보고 ipaas를 사용하기 전에
 ## Contents
 
 #### [1. ipaas ?](#ipaas)
-#### [2. ipaas 특징](#ipaas-특징)
-#### [3. ipaas 작동방식](#ipaas-작동방식)
+#### [2. ipaas 작동방식](#ipaas-작동방식)
+#### [3. ipaas 특징](#ipaas-특징)
 #### [4. ipaas 장점](#ipaas-장점)
 #### [5. ipaas 단점](#ipaas-단점)
 #### [6. ipaas 에 필요한 사전기술](#ipaas에-필요한-사전기술)
