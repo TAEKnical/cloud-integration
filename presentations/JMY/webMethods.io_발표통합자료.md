@@ -1,10 +1,10 @@
-# webMethods.io 발표 통합 자료
-
-<br>
-
 ## 목차
 
-[TOC]
+   * [**webMethods.io란?**](#webmethods.io란?)
+   * [**webMethods.io 서비스**](#webmethods.io-서비스)
+     * [**webMethods.io B2B**](#webmethods.io-b2b)
+     * [**webMethods.io API**](#webmethods.io-api)
+     * [**webMethods.io Integration**](#webmethods.io-integration)
 
 <br>
 
@@ -12,9 +12,9 @@
 
 <br>
 
-## 1. webmethods.io란? 
+## webMethods.io란?
 
-<img src="./webMethods.io.png" alt="webMethods.io.png" width=60% />
+<img src="images/webMethods.io.png" alt="webMethods.io.png" width=60% />
 
 webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게이트웨이에서 제공하는 기능의 조합을 제공하는 서비스로서 강력한 통합 플랫폼(iPaaS)이다.
 
@@ -26,7 +26,7 @@ webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게�
 
 <br>
 
-#### **webmethods.io의 장점**
+#### **webMethods.io의 장점**
 
 - 사용하기 쉬운 인터페이스
 
@@ -58,13 +58,13 @@ webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게�
 
 <br>
 
-## 2. webmethods.io 서비스
+## webmethods.io 서비스
 
 <br>
 
-### 2-1. webmethods.io b2b
+### webMethods.io B2B
 
-<img src="./webMethods.io_B2B.png" alt="webMethods.io_B2B.png" width=70% />
+<img src="images/webMethods.io_B2B.png" alt="webMethods.io_B2B.png" width=70% />
 
 webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 파트너와 비즈니스 문서를 교환하여 생산 정보를 전달할 수 있다.
 
@@ -106,9 +106,9 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 <br>
 
-### 2-2) webmethods.io api
+### webMethods.io API
 
-<img src="./webMethods.io_API.png" alt="webMethods.io_API.png" width=70% />
+<img src="images/webMethods.io_API.png" alt="webMethods.io_API.png" width=70% />
 
 webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이션에서 사용할 수 있도록 API를 타사 개발자, 파트너 및 기타 소비자에게 안전하게 관리하고 노출시켜주는 서비스이다.
 
@@ -150,9 +150,9 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 <br>
 
-### 2-3) webmethods.io integration
+### webMethods.io Integration
 
-<img src="./webMethods.io_Integration.png" alt="webMethods.io_Integration.png" width=70% />
+<img src="images/webMethods.io_Integration.png" alt="webMethods.io_Integration.png" width=70% />
 
 webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서비스에 연결하여 작업을 자동화 할 수 있는 서비스로서 강력한 통합 플랫폼 (iPaaS)이다.
 
@@ -184,15 +184,15 @@ webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서�
 
 <br>
 
-#### **webmethods.io integration 기본 개념**
+#### **webMethods.io Integration 기본 개념**
 
-<img src="./wM.io.png" alt="wM.io.png" width=100% />
+<img src="images/wM.io.png" alt="wM.io.png" width=100% />
 
 <br>
 
 - Project란?
 
-<img src="./workflow.png" alt="workflow.png" width=50% />
+<img src="images/workflow.png" alt="workflow.png" width=50% />
 
 프로젝트는 자산을 구성하기 위한 폴더 또는 컨테이너에 해당한다. 테넌트 내부의 워크 플로 및 FlowService와 관련된 구성과 함께 사용자가 만든 모든 자산을 보유한다.
 
@@ -208,7 +208,7 @@ webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서�
 
 ※ Workflow 예시
 
-<img src="./workflow예시.png" alt="workflow예시.png" width=80% />
+<img src="images/workflow예시.png" alt="workflow예시.png" width=80% />
 
 Trigger : 자신의 트위터 계정에 새로운 트윗 또는 리트윗이 게시될 때
 
