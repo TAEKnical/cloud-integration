@@ -4,15 +4,15 @@
 
 ## 목차
 
-1. [**webMethods.io란?**](#webmethods.io란?)
+1. [**webMethods.io란?**](#1.-webmethods.io란?)
 
-2. [**webMethods.io 서비스**](#webmethods.io-서비스)
+2. [**webMethods.io 서비스**](#2.-webmethods.io-서비스)
 
-​        [**2-1) webMethods.io B2B**](#webmethods.io-B2B)
+​        [**2-1. webMethods.io B2B**](#2-1.-webmethods.io-b2b)
 
-​        [**2-2) webMethods.io API**](#webmethods.io-API)
+​        [**2-2. webMethods.io API**](#2-2.-webmethods.io-api)
 
-​        [**2-3) webMethods.io Integration**](#webmethods.io-Integration)
+​        [**2-3. webMethods.io Integration**](#2-3.-webmethods.io-integration)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-## 1. webMethods.io란?
+## 1. webmethods.io란?
 
 <img src="./webMethods.io.png" alt="webMethods.io.png" width=60% />
 
@@ -34,7 +34,7 @@ webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게�
 
 <br>
 
-#### **webMethods.io의 장점**
+#### **webmethods.io의 장점**
 
 - 사용하기 쉬운 인터페이스
 
@@ -70,7 +70,7 @@ webMethods.io는 ESB, 데이터 통합 시스템, API 관리 도구 및 B2B 게�
 
 <br>
 
-### 2-1) webMethods.io B2B
+### 2-1. webmethods.io b2b
 
 <img src="./webMethods.io_B2B.png" alt="webMethods.io_B2B.png" width=70% />
 
@@ -114,7 +114,7 @@ webMethods.io B2B는 B2B 문서 번역 및 전송 서비스로, 네트워크의 
 
 <br>
 
-### 2-2) webMethods.io API
+### 2-2) webmethods.io api
 
 <img src="./webMethods.io_API.png" alt="webMethods.io_API.png" width=70% />
 
@@ -158,7 +158,7 @@ webMethods.io API는 웹, 모바일 및 사물 인터넷 (IoT) 애플리케이�
 
 <br>
 
-### 2-3) webMethods.io Integration
+### 2-3) webmethods.io integration
 
 <img src="./webMethods.io_Integration.png" alt="webMethods.io_Integration.png" width=70% />
 
@@ -192,7 +192,7 @@ webMethods.io Integration은 Marketo,Salesforce 및 Gmail과 같은 앱과 서�
 
 <br>
 
-#### **webMethods.io Integration 기본 개념**
+#### **webmethods.io integration 기본 개념**
 
 <img src="./wM.io.png" alt="wM.io.png" width=100% />
 
