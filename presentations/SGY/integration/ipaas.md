@@ -2,7 +2,7 @@
 # ipaas (integration platform as a service)
 
 
-ipaas의 개념과 특징에 대해서 알아보고 ipaas를 사용하기 전에 필요한 사전기술은 어떠한 것들이 있는지 살펴보자.
+ipaas의 개념과 특징에 대해서 알아보고 ipaas를 사용하기 전에 필요한 사전기술은 어떠한 것들이 있는지 살펴보자.<br/>
                                                                                                                                     08/24
 <br/>
 <br/>
